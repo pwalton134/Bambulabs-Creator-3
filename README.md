@@ -13,6 +13,7 @@ This has been the most successful thus far, I found profiles that worked well fr
 This worked well, but I moved to Orcaslicer when that worked as I found the interface a lot better, and less buggy in Fedora. *reminder to dig out link and add here*.
 
 <h1>Replacement Hotends</h1>
+*These notes are being added to as I find time. I intend to add pictures and more of my learnings along the way*
 My printer was a freebie from my work as they could not get replacement hotends, ultimately giving up and going to Bambu Labs printers. Obviously, getting the hotends working again was a major hurdle to overcome, as the prints were pretty awful when it did work, and the nozzles forever clogging.
 
 To resolve this, I decided to look at what printers were out there, and what I could get on Amazon cheaply. I found the X1C hotend to be a particularly good match. It was 24V, and a similar resistance to the FFC3 hotend, and similar length. For $24 AUD I gave it a go and it was surprisingly straightforward to install. All it took was a simple 3D printed adapter, K-type thermocouple, and, using existing hardware it was surprisingly straightforward.
