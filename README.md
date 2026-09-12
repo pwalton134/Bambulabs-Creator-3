@@ -19,7 +19,7 @@ To resolve this, I decided to look at what printers were out there, and what I c
 
 Things I learned along the way:
 - Printer is 24V, including the hotend
-  
+- 
 - Bed homing sensor is piezo
   
 - Temperature sensor is a K-type thermocouple
@@ -29,14 +29,23 @@ Things I learned along the way:
 <h2>Method:</h2>
 <h3>Parts Required:</h3>
 - Bambu Labs X1C 0.4mm hotend (I used this clone from Amazon https://www.amazon.com.au/LEOWAY-Upgraded-Printer-Hotend-Assembly/dp/B0GZF311Z4/ref=rvi_d_sccl_8/355-3859315-9873953)
+
 - K-type thermocouple (bare wire worked for me)
+  
 - JST-XH 2.5mm 2P receptacle (optional, for heater wire)
+  
 - 22AWG silicone wire (optional, for heater wire)
+  
   - Qty:2 ~90mm lengths worked well for me
+    
 - Heatshrink sized for above wire (optional, for heater wire)
+  
 - JST-XH 2.5mm 2P plug and crimps (for thermocouple, 28AWG worked for me but required folding the wire)
+  
 - 3D printed hotend adapter
+  
 - 3D printed fan shroud
+  
 - PTFE tube (I reused one from an old FFC3 nozzle)
 
 <H3>Equipment Required:</H3>
