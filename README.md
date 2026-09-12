@@ -77,19 +77,33 @@ More importantly, I am merely offering my experience on my FFC3, which has worke
   b) Disassemble the carriage, removing the servo, fan, fan shroud, hotend, and bed sensor
   c) Disassemble the fan shroud. Remove all 4 screws.
 7) Install the 3D printed hotend adapter:
+
   a) Place the bed sensor into the normal position.
+
   b) Offer up the 3D printer hotend adapter, and make sure the bed sensor isn't obstructed.
+  
   c) Using the same screws from the FFC3 hotend, screw the adapter to the carriage arm.
+  
 8) Prepare the X1C hotend:
+    
   a) Extend the wires, or fabricate an extender using the silicone wire, heatshrink, and JST-XH receptacle. I made an extender, so hotend replacement was simplified in future.
+  
   b) Trim the K-type thermocouple wire to match the length of the heater, + adapter/extension.
+  
   c) Install the ceramic heater and thermocouple onto the hotend using the supplied clip. Don't forget to add the thermal paste! One of my hotends came preassembled, so I had to disassemble it first.
+  
   d) Install the silicone boot.
+  
 9) Install the X1C hotend:
+    
   a) Bend the top heatsink fins upwards. This serves to stabilise the hotend, kind of like a spring. I used a flathead screwdriver, pushed to the base to encourage a bend. Be very careful not to snap the fins off!
+  
   b) Place the PTFE tube into the bed sensor, and trim just shy of the base of the sensor. This took some guesswork, too short and the filament can snag when fed in, too long and the bed sensor doesn't register and the hotend may not fit.
+  
   c) With the PTFE tube in place, install the X1C hotend. Use the qty:2 lower screws from the fan shroud we disassembled earlier and push the into the hotend adapter, and through the two hotend mount holes, until the screw heads are flush. My print of the adapter meant I had some thread bite and they stuck in well. You may have to push the hotend up a little depending how far the fins were bent.
+  
   d) Connect the heater and thermocouple wires to the carriage PCB.
+  
 10) Install the fan and shroud, using the remaining qty:2 screws removed from the fan shroud earlier.
 11) Connect the fan to the carriage PCB.
 12) Reinstall the servo and direct drive mechanism.
