@@ -49,7 +49,8 @@ Things I learned along the way:
 
 <H3>Method:</H3>
 I'm writing this from memory, so please sanity check as you go.
-More importantly, I am merely offering my experience on my FFC3, which has worked well for me. These are my notes. If you choose to adapt your own machine with these notes you do so at your own risk and agree not to hold me responsible for any damage or harm that may arise. Whenever dealing with machinery, there is the possibility to damage the machine, the operator, or worse (including amputation and/or burning the place down). This method worked on my setup, and assuming all Creator 3s are the same, may well work on another. Never leave the printer unattended during operation, especially if you have just made a change to it.
+
+More importantly, I am merely offering my experience on my FFC3, which has worked well for me. These are my notes. **If you choose to adapt your own machine with these notes you do so at your own risk and agree not to hold me responsible for any damage or harm that may arise. Whenever dealing with machinery, there is the possibility to damage the machine, the operator, or worse (including amputation and/or burning the place down).** This method worked on my setup, and assuming all Creator 3s are the same, may well work on another. Never leave the printer unattended during operation, especially if you have just made a change to it.
 
 1) Print the hotend adapter.
 2) Test the new X1C hotend fits into the square hole.
@@ -79,7 +80,8 @@ More importantly, I am merely offering my experience on my FFC3, which has worke
 12) Reinstall the servo and direct drive mechanism.
 13) Tidy-up!
 
-!!!BEFORE YOUR FIRST PRINT, SANITY CHECK THE TEMPERATURE SENSOR AND MAKE SURE IT'S READING CORRECTLY!!!
+**!!!BEFORE YOUR FIRST PRINT, SANITY CHECK THE TEMPERATURE SENSOR AND MAKE SURE IT'S READING CORRECTLY!!!**
+
 It is easy to wire the thermocouple backwards. I initially powered up the machine and measured the temperature on the status window, both by holding onto the thermocouple and releasing it and placing it against the other intact hotend whilst it was hot and comparing the readings. I cannot stress how important it is to make sure this is reading correctly and that you must check this before heating up the new hotend.
 
 Once installed, I ran a manual calibration of the Z-axis. Manual calibration is an option lower in the FFC3 settings page, and once enabled you run calibration as per normal, but manually setting the nozzle height using an A4 piece of paper.
