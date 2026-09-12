@@ -19,8 +19,11 @@ To resolve this, I decided to look at what printers were out there, and what I c
 
 Things I learned along the way:
 - Printer is 24V, including the hotend
+  
 - Bed homing sensor is piezo
+  
 - Temperature sensor is a K-type thermocouple
+  
 - Manual calibration of nozzle height negates the need for the homing sensor
 
 <h2>Method:</h2>
