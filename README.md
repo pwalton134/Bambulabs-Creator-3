@@ -25,7 +25,7 @@ Things I learned along the way:
 
 <h2>Method:</h2>
 <h3>Parts Required:</h3>
-- Bambu Labs X1C 0.4mm hotend (I used this clone from [Amazon](url=https://www.amazon.com.au/LEOWAY-Upgraded-Printer-Hotend-Assembly/dp/B0GZF311Z4/ref=rvi_d_sccl_8/355-3859315-9873953))
+- Bambu Labs X1C 0.4mm hotend (I used this clone from Amazon https://www.amazon.com.au/LEOWAY-Upgraded-Printer-Hotend-Assembly/dp/B0GZF311Z4/ref=rvi_d_sccl_8/355-3859315-9873953)
 - K-type thermocouple (bare wire worked for me)
 - JST-XH 2.5mm 2P receptacle (optional, for heater wire)
 - 22AWG silicone wire (optional, for heater wire)
