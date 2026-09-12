@@ -43,9 +43,9 @@ Things I learned along the way:
   
 - JST-XH 2.5mm 2P plug and crimps (for thermocouple, 28AWG worked for me but required folding the wire)
   
-- 3D printed hotend adapter
+- 3D printed hotend adapter (ref /hotend/)
   
-- 3D printed fan shroud
+- 3D printed fan shroud (ref /hotend/)
   
 - PTFE tube (I reused one from an old FFC3 nozzle)
 
