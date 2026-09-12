@@ -73,9 +73,13 @@ More importantly, I am merely offering my experience on my FFC3, which has worke
 4) Unload the filament.
 5) Turn off the printer!
 6) Disassemble the extruder head, and retain all fasteners:
-     a) Unplug the servo, heater, thermocouple, bed sensor, and fan
+   
+  a) Unplug the servo, heater, thermocouple, bed sensor, and fan
+  
   b) Disassemble the carriage, removing the servo, fan, fan shroud, hotend, and bed sensor
+  
   c) Disassemble the fan shroud. Remove all 4 screws.
+  
 7) Install the 3D printed hotend adapter:
 
   a) Place the bed sensor into the normal position.
