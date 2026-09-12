@@ -62,6 +62,7 @@ Things I learned along the way:
 <H3>Method:</H3>
 I'm writing this from memory, so please sanity check as you go.
 More importantly, I am merely offering my experience on my FFC3, which has worked well for me. By adapting your own machine with these instructions you do so at your own risk and agree not to hold me responsible. This method worked on my setup, and assuming all are the same, may well work on another setup.
+
 1) Print the hotend adapter.
 
 2) Test the new X1C hotend fits into the square hole.
