@@ -28,6 +28,7 @@ Things I learned along the way:
 
 <h2>Method:</h2>
 <h3>Parts Required:</h3>
+
 - Bambu Labs X1C 0.4mm hotend (I used this clone from Amazon https://www.amazon.com.au/LEOWAY-Upgraded-Printer-Hotend-Assembly/dp/B0GZF311Z4/ref=rvi_d_sccl_8/355-3859315-9873953)
 
 - K-type thermocouple (bare wire worked for me)
@@ -50,9 +51,13 @@ Things I learned along the way:
 
 <H3>Equipment Required:</H3>
 - JST-XH crimp tools
+
 - Soldering iron
+
 - Side-cutters
+  
 - Hex/Allen keys
+  
 
 <H3>Method:</H3>
 I'm writing this from memory, so please sanity check as you go.
