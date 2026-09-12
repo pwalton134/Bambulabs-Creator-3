@@ -61,7 +61,7 @@ Things I learned along the way:
 
 <H3>Method:</H3>
 I'm writing this from memory, so please sanity check as you go.
-More importantly, I am merely offering my experience on my FFC3, which has worked well for me. By adapting your own machine with these instructions you do so at your own risk and agree not to hold me responsible. This method worked on my setup, and assuming all are the same, may well work on another setup.
+More importantly, I am merely offering my experience on my FFC3, which has worked well for me. These are my notes. If you choose to adapt your own machine with these notes you do so at your own risk and agree not to hold me responsible for any damage or harm that may arise. Whenever dealing with machinery, there is the possibility to damage the machine, the operator, or worse (including amputation and/or burning the place down). This method worked on my setup, and assuming all Creator 3s are the same, may well work on another. Never leave the printer unattended during operation, especially if you have just made a change to it.
 
 1) Print the hotend adapter.
 
