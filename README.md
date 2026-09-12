@@ -13,7 +13,8 @@ This has been the most successful thus far, I found profiles that worked well fr
 This worked well, but I moved to Orcaslicer when that worked as I found the interface a lot better, and less buggy in Fedora. *reminder to dig out link and add here*.
 
 <h1>Replacement Hotends</h1>
-(![X1C hotend installed](https://raw.githubusercontent.com/pwalton134/Bambulabs-Creator-3/refs/heads/main/Hotend/1000030394.jpg))
+![X1C hotend installed]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/pwalton134/Bambulabs-Creator-3/refs/heads/main/Hotend/1000030394.jpg))
+
 *These notes are being added to as I find time. I intend to add pictures and more of my learnings along the way*
 My printer was a freebie from my work as they could not get replacement hotends, ultimately giving up and going to Bambu Labs printers. Obviously, getting the hotends working again was a major hurdle to overcome, as the prints were pretty awful when it did work, and the nozzles forever clogging.
 
